@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ReadThinker 跨閱思考</title>
+  <icon>https://www.readthinker.com/favicon.png</icon>
+  <subtitle>跨領域個人成長閱讀學習社群</subtitle>
+  <link href="https://www.readthinker.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.readthinker.com/"/>
+  <updated>2023-04-08T10:33:11.333Z</updated>
+  <id>https://www.readthinker.com/</id>
+  
+  <author>
+    <name>ReadThinker 跨閱思考</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ReadThinker 跨閱思考是什麼？</title>
+    <link href="https://www.readthinker.com/2023/04/07/hello-world/"/>
+    <id>https://www.readthinker.com/2023/04/07/hello-world/</id>
+    <published>2023-04-07T11:26:07.034Z</published>
+    <updated>2023-04-08T10:33:11.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;俗話說：一命、二運、三風水、四積陰德、五讀書。&lt;/p&gt;
+&lt;p&gt;如果你跟我們普羅大眾一樣平身平凡，沒有富爸爸，有錢的姑姑（性別平衡一下）。那閱讀好書是一個自我提升和個人成長的最好的方式。&lt;/p&gt;
+&lt;p&gt;然而隨著數位科技和社群媒體的高速發展，我們身邊每天充斥著大量的真假資訊，漸</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
