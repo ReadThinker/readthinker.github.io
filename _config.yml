@@ -17,8 +17,8 @@ url: https://www.readthinker.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -107,6 +107,9 @@ deploy:
   repo: git@github.com:ReadThinker/readthinker.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+sitemap:
+    path: sitemap.xml
 
 feed:
   enable: true
