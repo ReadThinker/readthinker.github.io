@@ -1,0 +1,17 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <% if (theme.copyright){ %>
+        <%- render(theme.copyright, 'pug'); %>
+      <% } %>
+      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>
+      All rights reserved. Various trademarks held by their respective
+                    owners. Special Thanks to <a href="https://www.freepik.com/" target="_blank">Freepik</a>, <a href="https://www.iconfinder.com/" target="_blank">iconfinder</a> & <a href="https://unsplash.com/@brookecagle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>.
+    </div>
+  </div>
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0" nonce="K7I0Py82"></script>
+</footer>

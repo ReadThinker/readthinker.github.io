@@ -1,0 +1,6 @@
+<aside id="sidebar"<% if (theme.sidebar === 'bottom'){ %> class="outer"<% } %>>
+  <% theme.widgets.forEach(function(widget){ %>
+    <%- partial('_widget/' + widget) %>
+  <% }) %>
+  <div class="fb-page" data-href="https://www.facebook.com/ReadThinker" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ReadThinker" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ReadThinker">ReadThinker 跨閱思考</a></blockquote></div>
+</aside>
