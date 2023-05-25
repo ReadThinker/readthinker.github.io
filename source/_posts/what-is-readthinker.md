@@ -1,5 +1,10 @@
 ---
 title: ReadThinker 跨閱思考是什麼？
+toc: true
+date: 2023-05-25 08:16:46
+description: ReadThinker 跨閱思考是一個推廣跨領域閱讀思考和個人成長的知識性分享新媒體社群，主題涵蓋個人成長、商業財經、投資理財、科技趨勢、心理勵志等，以專業又不失幽默風趣的方式，萃取書籍和課程的精華，提供使用者最有趣的知識內容分享。我們希望培養讀者具備獨立思考和閱讀思維的習慣，進而理解這個世界背後運行的規則，讓我們理解事物本質和分辨社會上有誰在胡說八道。我們希望透過閱讀心得、實踐筆記以及推薦書單的社群分享，培養讀者成為一個具備獨立閱讀思考能力的行動者。
+tags:
+    readthinker
 ---
 
  > Reading makes a full human; conference a ready human and writing an exact human. 
